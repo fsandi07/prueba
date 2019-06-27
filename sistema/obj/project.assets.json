@@ -12545,11 +12545,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fabio\\OneDrive\\Documentos\\ASP.NET\\sistema\\sistema\\sistema.csproj",
+      "projectUniqueName": "C:\\Users\\fabio\\OneDrive\\Documentos\\ASP.NET\\prueba\\sistema\\sistema.csproj",
       "projectName": "sistema",
-      "projectPath": "C:\\Users\\fabio\\OneDrive\\Documentos\\ASP.NET\\sistema\\sistema\\sistema.csproj",
+      "projectPath": "C:\\Users\\fabio\\OneDrive\\Documentos\\ASP.NET\\prueba\\sistema\\sistema.csproj",
       "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fabio\\OneDrive\\Documentos\\ASP.NET\\sistema\\sistema\\obj\\",
+      "outputPath": "C:\\Users\\fabio\\OneDrive\\Documentos\\ASP.NET\\prueba\\sistema\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
