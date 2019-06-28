@@ -1,0 +1,23 @@
+
+
+Como iniciar base de datos, o estilo de core, formando clases inicialmente 
+y luego formnado la base de datos.
+
+Servidores y nube
+que tipo de dominio, etc
+
+los recursos que ofrece core, por ejemplo la autenticacion, que es mejor comenzar comno lo hace 
+visual, o luego hacer la clase por aparte
+
+si el estilo del proyecto esta bien basado, o mejor otro 
+tipo de arquitectura o extructura
+
+el proyecto que dice sistema es un ejemplo de mas o emnos la 
+arquitectura que vamos a emplear en el nuestro
+
+por donde comenzamos con el sistema
+
+sabemos qeu con core el proyecto ya genera viustas y boostrap, pero podemos darle otro estilop de boostrap
+o css
+
+
