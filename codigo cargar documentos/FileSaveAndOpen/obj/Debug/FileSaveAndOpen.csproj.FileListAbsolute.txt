@@ -1,0 +1,46 @@
+c:\users\bioxor\source\repos\FileSaveAndOpen\FileSaveAndOpen\bin\Debug\FileSaveAndOpen.exe.config
+c:\users\bioxor\source\repos\FileSaveAndOpen\FileSaveAndOpen\bin\Debug\FileSaveAndOpen.exe
+c:\users\bioxor\source\repos\FileSaveAndOpen\FileSaveAndOpen\bin\Debug\FileSaveAndOpen.pdb
+c:\users\bioxor\source\repos\FileSaveAndOpen\FileSaveAndOpen\bin\Debug\EntityFramework.dll
+c:\users\bioxor\source\repos\FileSaveAndOpen\FileSaveAndOpen\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\bioxor\source\repos\FileSaveAndOpen\FileSaveAndOpen\bin\Debug\EntityFramework.xml
+c:\users\bioxor\source\repos\FileSaveAndOpen\FileSaveAndOpen\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\bioxor\source\repos\FileSaveAndOpen\FileSaveAndOpen\obj\Debug\FileSaveAndOpen.csprojResolveAssemblyReference.cache
+c:\users\bioxor\source\repos\FileSaveAndOpen\FileSaveAndOpen\obj\Debug\FileSaveAndOpen.Form1.resources
+c:\users\bioxor\source\repos\FileSaveAndOpen\FileSaveAndOpen\obj\Debug\FileSaveAndOpen.Properties.Resources.resources
+c:\users\bioxor\source\repos\FileSaveAndOpen\FileSaveAndOpen\obj\Debug\FileSaveAndOpen.csproj.GenerateResource.Cache
+c:\users\bioxor\source\repos\FileSaveAndOpen\FileSaveAndOpen\obj\Debug\FileSaveAndOpen.csproj.CoreCompileInputs.cache
+c:\users\bioxor\source\repos\FileSaveAndOpen\FileSaveAndOpen\obj\Debug\FileSaveAndOpen.exe
+c:\users\bioxor\source\repos\FileSaveAndOpen\FileSaveAndOpen\obj\Debug\FileSaveAndOpen.pdb
+C:\Users\fabio\Downloads\FileSaveAndOpen\FileSaveAndOpen\bin\Debug\FileSaveAndOpen.exe.config
+C:\Users\fabio\Downloads\FileSaveAndOpen\FileSaveAndOpen\bin\Debug\FileSaveAndOpen.exe
+C:\Users\fabio\Downloads\FileSaveAndOpen\FileSaveAndOpen\bin\Debug\FileSaveAndOpen.pdb
+C:\Users\fabio\Downloads\FileSaveAndOpen\FileSaveAndOpen\bin\Debug\EntityFramework.dll
+C:\Users\fabio\Downloads\FileSaveAndOpen\FileSaveAndOpen\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fabio\Downloads\FileSaveAndOpen\FileSaveAndOpen\bin\Debug\EntityFramework.xml
+C:\Users\fabio\Downloads\FileSaveAndOpen\FileSaveAndOpen\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fabio\Downloads\FileSaveAndOpen\FileSaveAndOpen\obj\Debug\FileSaveAndOpen.csprojAssemblyReference.cache
+C:\Users\fabio\Downloads\FileSaveAndOpen\FileSaveAndOpen\obj\Debug\FileSaveAndOpen.Form1.resources
+C:\Users\fabio\Downloads\FileSaveAndOpen\FileSaveAndOpen\obj\Debug\FileSaveAndOpen.Properties.Resources.resources
+C:\Users\fabio\Downloads\FileSaveAndOpen\FileSaveAndOpen\obj\Debug\FileSaveAndOpen.csproj.GenerateResource.cache
+C:\Users\fabio\Downloads\FileSaveAndOpen\FileSaveAndOpen\obj\Debug\FileSaveAndOpen.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Downloads\FileSaveAndOpen\FileSaveAndOpen\obj\Debug\FileSaveAndOpen.csproj.CopyComplete
+C:\Users\fabio\Downloads\FileSaveAndOpen\FileSaveAndOpen\obj\Debug\FileSaveAndOpen.exe
+C:\Users\fabio\Downloads\FileSaveAndOpen\FileSaveAndOpen\obj\Debug\FileSaveAndOpen.pdb
+C:\Users\fabio\OneDrive\Documentos\UTC\proyecto final\FileSaveAndOpen\FileSaveAndOpen\obj\Debug\FileSaveAndOpen.csprojAssemblyReference.cache
+C:\Users\fabio\OneDrive\Documentos\UTC\proyecto final\FileSaveAndOpen\FileSaveAndOpen\obj\Debug\FileSaveAndOpen.Form1.resources
+C:\Users\fabio\OneDrive\Documentos\UTC\proyecto final\FileSaveAndOpen\FileSaveAndOpen\obj\Debug\FileSaveAndOpen.Properties.Resources.resources
+C:\Users\fabio\OneDrive\Documentos\UTC\proyecto final\FileSaveAndOpen\FileSaveAndOpen\obj\Debug\FileSaveAndOpen.csproj.GenerateResource.cache
+C:\Users\fabio\OneDrive\Documentos\UTC\proyecto final\FileSaveAndOpen\FileSaveAndOpen\obj\Debug\FileSaveAndOpen.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Documentos\UTC\proyecto final\FileSaveAndOpen\FileSaveAndOpen\obj\Debug\FileSaveAndOpen.exe
+C:\Users\fabio\OneDrive\Documentos\UTC\proyecto final\FileSaveAndOpen\FileSaveAndOpen\obj\Debug\FileSaveAndOpen.pdb
+C:\Users\fabio\OneDrive\Documentos\UTC\proyecto final\FileSaveAndOpen\FileSaveAndOpen\bin\Debug\FileSaveAndOpen.exe.config
+C:\Users\fabio\OneDrive\Documentos\UTC\proyecto final\FileSaveAndOpen\FileSaveAndOpen\bin\Debug\FileSaveAndOpen.exe
+C:\Users\fabio\OneDrive\Documentos\UTC\proyecto final\FileSaveAndOpen\FileSaveAndOpen\bin\Debug\FileSaveAndOpen.pdb
+C:\Users\fabio\OneDrive\Documentos\UTC\proyecto final\FileSaveAndOpen\FileSaveAndOpen\bin\Debug\EntityFramework.dll
+C:\Users\fabio\OneDrive\Documentos\UTC\proyecto final\FileSaveAndOpen\FileSaveAndOpen\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fabio\OneDrive\Documentos\UTC\proyecto final\FileSaveAndOpen\FileSaveAndOpen\bin\Debug\EntityFramework.xml
+C:\Users\fabio\OneDrive\Documentos\UTC\proyecto final\FileSaveAndOpen\FileSaveAndOpen\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fabio\OneDrive\Documentos\UTC\proyecto final\FileSaveAndOpen\FileSaveAndOpen\obj\Debug\FileSaveAndOpen.csproj.CopyComplete
+C:\Users\fabio\OneDrive\Documentos\UTC\proyecto final\FileSaveAndOpen\FileSaveAndOpen\bin\Debug\SautinSoft.Document.dll
+C:\Users\fabio\OneDrive\Documentos\UTC\proyecto final\FileSaveAndOpen\FileSaveAndOpen\bin\Debug\SautinSoft.Document.xml
