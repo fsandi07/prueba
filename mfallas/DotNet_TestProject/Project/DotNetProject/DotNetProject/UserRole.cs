@@ -11,13 +11,19 @@ namespace DotNetProject
 {
     using System;
     using System.Collections.Generic;
-    
+    using System.ComponentModel.DataAnnotations;
+
     public partial class UserRole
     {
         public int roleId { get; set; }
+
+        //[Display(Name = "Nombre del Rol:")]
+        //[Required(ErrorMessage = "Debe ingresar un nombre para el rol"), MaxLength(15)]
         public string displayName { get; set; }
+
         public string roleDescription { get; set; }
-    
+
+        //[ScaffoldColumn(false)]
         public virtual UserInfo UserInfo { get; set; }
     }
 }
