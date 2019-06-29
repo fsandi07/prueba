@@ -64,6 +64,5 @@ C:\Users\Melvin\Documents\Repositorios\git\github\fsandi07\prueba\mfallas\DotNet
 C:\Users\Melvin\Documents\Repositorios\git\github\fsandi07\prueba\mfallas\DotNet_TestProject\Project\DotNetProject\DotNetProject\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\Melvin\Documents\Repositorios\git\github\fsandi07\prueba\mfallas\DotNet_TestProject\Project\DotNetProject\DotNetProject\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\Melvin\Documents\Repositorios\git\github\fsandi07\prueba\mfallas\DotNet_TestProject\Project\DotNetProject\DotNetProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\Melvin\Documents\Repositorios\git\github\fsandi07\prueba\mfallas\DotNet_TestProject\Project\DotNetProject\DotNetProject\obj\Debug\DotNetProject.csprojResolveAssemblyReference.cache
 C:\Users\Melvin\Documents\Repositorios\git\github\fsandi07\prueba\mfallas\DotNet_TestProject\Project\DotNetProject\DotNetProject\obj\Debug\DotNetProject.dll
 C:\Users\Melvin\Documents\Repositorios\git\github\fsandi07\prueba\mfallas\DotNet_TestProject\Project\DotNetProject\DotNetProject\obj\Debug\DotNetProject.pdb

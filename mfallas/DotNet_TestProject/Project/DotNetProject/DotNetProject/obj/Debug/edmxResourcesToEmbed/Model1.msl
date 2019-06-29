@@ -4,23 +4,23 @@
     <EntitySetMapping Name="UserInfoes">
       <EntityTypeMapping TypeName="AppModel.UserInfo">
         <MappingFragment StoreEntitySet="UserInfo">
-          <ScalarProperty Name="userId" ColumnName="userId" />
-          <ScalarProperty Name="firstName" ColumnName="firstName" />
-          <ScalarProperty Name="lastName1" ColumnName="lastName1" />
-          <ScalarProperty Name="lastName2" ColumnName="lastName2" />
-          <ScalarProperty Name="userName" ColumnName="userName" />
-          <ScalarProperty Name="password" ColumnName="password" />
-          <ScalarProperty Name="email" ColumnName="email" />
           <ScalarProperty Name="role" ColumnName="role" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="userName" ColumnName="userName" />
+          <ScalarProperty Name="lastName2" ColumnName="lastName2" />
+          <ScalarProperty Name="lastName1" ColumnName="lastName1" />
+          <ScalarProperty Name="firstName" ColumnName="firstName" />
+          <ScalarProperty Name="userId" ColumnName="userId" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
     <EntitySetMapping Name="UserRoles">
       <EntityTypeMapping TypeName="AppModel.UserRole">
         <MappingFragment StoreEntitySet="UserRole">
-          <ScalarProperty Name="roleId" ColumnName="roleId" />
-          <ScalarProperty Name="displayName" ColumnName="displayName" />
           <ScalarProperty Name="roleDescription" ColumnName="roleDescription" />
+          <ScalarProperty Name="displayName" ColumnName="displayName" />
+          <ScalarProperty Name="roleId" ColumnName="roleId" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
