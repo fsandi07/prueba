@@ -17,7 +17,7 @@ namespace DotNetProject
     {
         public int roleId { get; set; }
 
-        //[Display(Name = "Nombre del Rol:")]
+        [Display(Name = "Nombre del Rol")]
         //[Required(ErrorMessage = "Debe ingresar un nombre para el rol"), MaxLength(15)]
         public string displayName { get; set; }
 
