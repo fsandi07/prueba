@@ -13,7 +13,7 @@ DROP TABLE DOTNET.UserRole;
 CREATE TABLE DOTNET.UserRole (
 	roleId INT NOT NULL PRIMARY KEY IDENTITY,
 	displayName VARCHAR(15) NOT NULL,
-	roleDescription VARCHAR(50) NOT NULL
+	roleDescription VARCHAR(50)
 )
 ;
 -- Tabla de Usuarios
