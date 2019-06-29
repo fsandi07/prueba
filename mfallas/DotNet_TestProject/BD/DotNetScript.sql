@@ -30,7 +30,14 @@ CREATE TABLE DOTNET.UserInfo (
 )
 ;
 
----------------------------- Insersciones de Datos ----------------------------
+------------------ Creación de Índices ------------------
+
+CREATE INDEX IDX_USER_ROLE_DISPLAY_NAME ON DOTNET.UserRole (displayName);
+CREATE INDEX IDX_USER_INFO_USERNAME ON DOTNET.UserInfo (userName);
+CREATE INDEX IDX_USER_INFO_EMAIL ON DOTNET.UserInfo (email);
+
+
+---------------------------- Inserciones de Datos ----------------------------
 
 -- Inserciones de Roles de Usuario
 SET IDENTITY_INSERT DOTNET.UserRole ON;
