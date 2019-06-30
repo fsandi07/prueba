@@ -40,13 +40,13 @@ CREATE INDEX IDX_USER_INFO_EMAIL ON DOTNET.UserInfo (email);
 ---------------------------- Inserciones de Datos ----------------------------
 
 -- Inserciones de Roles de Usuario
-SET IDENTITY_INSERT DOTNET.UserRole ON;
+SET IDENTITY_INSERT DOTNET.UserRole ON;-- para yo especificar el ID del identity 
 INSERT INTO DOTNET.UserRole (roleId, displayName, roleDescription) VALUES 
 (1, 'MAIN', 'Maintainer'),
 (2, 'ADMIN', 'Administrador'),
 (3, 'OPER', 'Operador')
 ;
-SET IDENTITY_INSERT SILO.USR_UserRole OFF;
+SET IDENTITY_INSERT DOTNET.UserRole OFF;
 
 -- Inserciones Usuarios
 INSERT INTO DOTNET.UserInfo (firstName, lastName1, lastName2, userName, password, email, role) VALUES 
